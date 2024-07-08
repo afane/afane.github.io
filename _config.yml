@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Graduate Assistant"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Khalifa Afane"
 description              : &description "personal description"
