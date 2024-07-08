@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 A Master of Data Science student at Fordham University, doing research in machine learning, quantum computing and smart city applications of AI.
-I'm interested in working on research projects developing efficient scalable, robust, and interpretable machine learning. particularly topics like data distillation adversarial attacks and using machine learning for the greater good of society.
+
+I'm interested in working on research projects developing efficient scalable, robust, and interpretable machine learning. particularly topics like **data distillation**, **adversarial attacks**, and **optimization of deep learning models**.
 
 Recent News
 ------
-May. 2024: I started working as a summer research assistant at Fordham, working on developping robust differentiable architecture search for quantum machine learning.
+May. 2024: I started working as a summer research assistant at Fordham, working on developing robust differentiable architecture search for quantum machine learning.
 
 May. 2024: Our paper on Imbalanced Datasets was accepted and selected for Oral Presentation at [KES2024](http://kes2024.kesinternational.org).
 
