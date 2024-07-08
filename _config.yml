@@ -21,7 +21,7 @@ repository               : "Khalifa Afane"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile24.png"
+  avatar           : "profile.png"
   name             : "Khalifa Afane"
   pronouns         : # example: "she/her"  
   bio              : ""
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
