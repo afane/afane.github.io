@@ -11,7 +11,8 @@ A Master of Data Science student at Fordham University, doing research in machin
 
 Published/Peer-reviewed Papers
 ======
-Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective
+
+1.Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective
 ------
 To be preseted at the 28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems KES2024 in September.
 [PDF](https://drive.google.com/file/d/1PvMINpcGU3p_-_rXVDCsVFzqH4BrlcsD/view?usp=drive_link)
@@ -19,12 +20,13 @@ To be preseted at the 28th International Conference on Knowledge-Based and Intel
 
 Under Review Papers
 ======
-Phishing Emails 2.0: How LLMs Can EmpowerAttackers
+
+1. Phishing Emails 2.0: How LLMs Can EmpowerAttackers
 ------
 Submitted to the Conference on Game Theory and AI for Security GameSec 2024 held to NYU in October.
 [PDF](https://drive.google.com/file/d/1vpNjTJT4W54ZppTzJ4o_NrIfBhalARtR/view?usp=drive_link)
 
-Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
+2. Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City
 ------
 Submitted to the Journal of Urban Health in May 2024.
 [PDF](https://drive.google.com/file/d/1783qbVe8bHPJ7hm3vWxoQijITD7eIjMz/view?usp=drive_link)
