@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="ibq3pEHalOWyX63hugAXqnKXpJQGMwkU8PhA-EpXggg" />
 ---
 permalink: /
 title: "About me"
@@ -54,5 +55,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-[Google](files/google042413341ac627dd.html)
