@@ -25,7 +25,7 @@ author:
   name             : "Khalifa Afane"
   pronouns         : # example: "she/her"  
   bio              : "Email: mafane@fordham.edu"
-  location         : "New York, USA"
+  location         : #"New York, USA"
   employer         : "Fordham University"
   uri              : # URL
   email            : #"" 
