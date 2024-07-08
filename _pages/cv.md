@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Fordham Universtiy University, 2025 (expected)
+* M.S. in Energy Engineering, University of Illinois Chicago University, 2023
+* B.S. in Electrical Engineering, ENSAM school at Hassan II University in Morocco, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2023 - Now: Research Assistant
+  * Fordham University
+  * Working on multiple research projects.
+    
+* May. 2023 - Aug. 2023: Data Engineering Intern
+  * ADIAS, Mauritania
+  * Worked with the Big Data Analysis team (BDA), using SQL, HDFS, AWS, Spark, and Azure.
+ 
+* Jun. 2020 - Jul. 2021: Business Analyst
+  * SGSA Investments
+  * Worked on supply chain management and cost reduction;
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* LaTeX
+* GitHub
+* Python, SQL, and C++.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* To be added
