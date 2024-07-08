@@ -1,13 +1,5 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
+**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [KES](http://kes2024.kesinternational.org), 2024. [PDF](https://drive.google.com/file/d/1PvMINpcGU3p_-_rXVDCsVFzqH4BrlcsD/view?usp=drive_link) (Accepted)
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**K. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", [Journal of Urban Health](https://link.springer.com/journal/11524), 2024. [PDF](https://drive.google.com/file/d/1783qbVe8bHPJ7hm3vWxoQijITD7eIjMz/view?usp=drive_link) (Under review)
+
+**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Phishing Emails 2.0: How LLMs Can Empower Attackers", [GameSec](https://www.gamesec-conf.org/papers.php), 2024. [PDF](https://drive.google.com/file/d/1vpNjTJT4W54ZppTzJ4o_NrIfBhalARtR/view?usp=drive_link) (Under review)
