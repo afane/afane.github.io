@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A Master of Data Science student at Fordham University, doing research in machine learning, quantum computing and smart city applications of AI.
+A student at the Master of Data Science program at Fordham University, doing research in machine learning, quantum computing and smart city applications of AI.
 
 I'm interested in working on research projects developing efficient scalable, robust, and interpretable machine learning. particularly topics like **data distillation**, **adversarial attacks**, and **optimization of deep learning models**.
 
