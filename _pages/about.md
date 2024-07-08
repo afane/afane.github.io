@@ -9,7 +9,7 @@ redirect_from:
 
 A student at the Master of Data Science program at Fordham University, doing research in machine learning, quantum computing and smart city applications of AI.
 
-I'm interested in doing research on efficient, and robust machine learning. particularly topics like **data distillation**, **adversarial attacks**, and **optimization of deep learning models**.
+I'm interested in doing research on efficient, and robust machine learning. particularly topics like Data Distillation, Adversarial Attacks, and Optimization of Deep Learning Models.
 
 Recent News
 ------
@@ -17,7 +17,7 @@ May. 2024: I started working as a summer research assistant at Fordham, working 
 
 May. 2024: Our paper on Imbalanced Datasets was accepted and selected for Oral Presentation at [KES2024](http://kes2024.kesinternational.org).
 
-April. 2024: I won the third place award at the [Fordham Three Minute Thesis Competition](https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/) for our research paper on Lead Testing for Childeren in New York City.
+April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [Competition Results]((https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/))
 
 Publications
 ------
