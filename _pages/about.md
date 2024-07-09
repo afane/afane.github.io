@@ -13,9 +13,7 @@ I'm interested in doing research on efficient, and robust machine learning. part
 
 Recent News
 ------
-May. 2024: I started working as a summer research assistant at Fordham, working on developing robust differentiable architecture search for quantum machine learning.
-
-May. 2024: Our paper on Imbalanced Datasets was accepted and selected for Oral Presentation at [[KES2024]](http://kes2024.kesinternational.org).
+May. 2024: "Our paper on Imbalanced Datasets was accepted for Oral Presentation at [[KES2024]](http://kes2024.kesinternational.org).
 
 April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [[Competition Results]](https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/)
 
