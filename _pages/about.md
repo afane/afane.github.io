@@ -19,6 +19,8 @@ May. 2024: Our paper on Imbalanced Datasets was accepted and selected for Oral P
 
 April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [Competition Results]((https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/))
 
+May. 2023: I was featured by the U.S. Embassy Mauritania Facebook page after finishing my master's degree as part of the Fulbright Program [Post](https://www.facebook.com/usembnouakchott/posts/pfbid028hwuTBcjcYLMGxu725uQggimQyzJDhGNe4ZeKtDMKTjZ9xM9QZKw8RpFEWLoEVgql)
+
 Publications
 ------
 
