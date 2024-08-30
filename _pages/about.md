@@ -13,7 +13,7 @@ I'm interested in doing research on efficient, and robust machine learning. part
 
 Recent News
 ------
-Aug. 2024: Our paper "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City: A Data-Driven Approach" was accepted for publication by [The Journal of Urban Health](https://link.springer.com/journal/11524).
+Aug. 2024: Our paper on Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City was accepted for publication by [Journal of Urban Health](https://link.springer.com/journal/11524).
 
 May. 2024: Our paper on Imbalanced Datasets was accepted for Oral Presentation at [KES2024](http://kes2024.kesinternational.org).
 
