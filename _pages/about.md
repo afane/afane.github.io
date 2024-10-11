@@ -9,11 +9,13 @@ redirect_from:
 
 A student at the Master of Data Science program at Fordham University, doing research in machine learning, quantum computing and applications of AI for social good.
 
-I'm interested in doing research on efficient, and robust machine learning. particularly topics like Data Distillation, Adversarial Attacks, and Optimization of Deep Learning Models. I'm also interested in the use of AI to tackle problems in healthcare and climate change.
+I'm interested in doing research on efficient, and robust machine learning. particularly topics like Data Distillation, Adversarial Attacks, and Optimization of Deep Learning Models. 
+
+I'm also interested in the use of AI to tackle problems in healthcare and climate change.
 
 Recent News
 ------
-Oct. 2024: Our paper on Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City was published by [The Journal of Urban Health]([https://link.springer.com/journal/11524](https://link.springer.com/journal/11524](https://link.springer.com/article/10.1007/s11524-024-00920-5.))).
+Oct. 2024: Our paper on Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
 May. 2024: Our paper on Imbalanced Datasets was accepted for Oral Presentation at [KES2024](http://kes2024.kesinternational.org).
 
@@ -29,7 +31,7 @@ Publications
 
 **K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [KES](http://kes2024.kesinternational.org), 2024. [[Paper]](https://drive.google.com/file/d/1PvMINpcGU3p_-_rXVDCsVFzqH4BrlcsD/view?usp=drive_link) (Accepted)
 
-**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Phishing Emails 2.0: How LLMs Can Empower Attackers", [IEEE Big Data](https://www.gamesec-conf.org/papers.php), 2024. [[Paper]](https://drive.google.com/file/d/1vpNjTJT4W54ZppTzJ4o_NrIfBhalARtR/view?usp=drive_link) (Under review)
+**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Phishing Emails 2.0: How LLMs Can Empower Attackers", [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), 2024. [[Paper]](https://drive.google.com/file/d/1vpNjTJT4W54ZppTzJ4o_NrIfBhalARtR/view?usp=drive_link) (Under review)
 
 References
 ------
