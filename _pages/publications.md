@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{[site.author.googlescholar](https://scholar.google.com/citations?user=wB3J8nQAAAAJ&hl=en&oi=sra)}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can also find my articles on [Google Scholars](https://scholar.google.com/citations?user=wB3J8nQAAAAJ&hl=en&oi=sra)
 
 **K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [KES](http://kes2024.kesinternational.org), 2024. [PDF](https://drive.google.com/file/d/1PvMINpcGU3p_-_rXVDCsVFzqH4BrlcsD/view?usp=drive_link) (Accepted)
 
