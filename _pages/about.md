@@ -15,9 +15,9 @@ I'm also interested in the use of AI to tackle problems in healthcare and climat
 Recent News
 ------
 
-Nov. 2024: Our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" was accepted at [IEEE Big Data CyberHunt workshop](https://www.cyberhunt2024.cyberhunt.no).
+Nov. 2024: Our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" was accepted at [IEEE Big Data CyberHunt Workshop](https://www.cyberhunt2024.cyberhunt.no). [Paper](https://arxiv.org/abs/2411.13874)
 
-Oct. 2024: Our paper on Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+Oct. 2024: Our paper on Optimizing Blood Lead Level Testing for Children in New York City was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
 May. 2024: Our paper on Imbalanced Datasets was accepted for Oral Presentation at [KES2024](http://kes2024.kesinternational.org).
 
