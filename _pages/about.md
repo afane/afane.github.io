@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-A student at the Master of Data Science program at Fordham University, doing research in machine learning, quantum computing and applications of AI for social good.
+As a Fulbright Scholar and machine learning researcher, I study the intersection of algorithms and society, 
+focusing on public health, robustness and reliability of LLMs, efficient machine learning, and quantum computing. 
 
-I'm interested in doing research on efficient, and robust machine learning. particularly topics like Adversarial Attacks, and Optimization of Deep Learning Models. 
-I'm also interested in the use of AI to tackle problems in healthcare and climate change.
+I'm particularly interested in developing machine learning methods that support robust and equitable decision making, and exploring how AI systems can be used to their full potential while ensuring safety, reliability, and fairness.
 
 Recent News
 ------
 
-Nov. 2024: Our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" was accepted at [IEEE Big Data CyberHunt Workshop](https://www.cyberhunt2024.cyberhunt.no). [[Paper]](https://arxiv.org/abs/2411.13874)
+Nov. 2024: I will be at [IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) to present our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" [[Arxiv]](https://arxiv.org/abs/2411.13874)
 
 Oct. 2024: Our paper on Optimizing Blood Lead Level Testing for Children in New York City was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-May. 2024: Our paper on Imbalanced Datasets was accepted for Oral Presentation at [KES2024](http://kes2024.kesinternational.org).
+Sep. 2024: I presented our paper on Imbalanced Datasets at [the 28th KES conference](http://kes2024.kesinternational.org), [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845)
 
 April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [[Competition Results]](https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/)
 
@@ -27,13 +27,12 @@ May. 2023: I was featured by the U.S. Embassy Mauritania Facebook page after fin
 
 Publications
 ------
+**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), 2024. [[Paper]](https://arxiv.org/abs/2411.13874)
 
 
 **K. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", [Journal of Urban Health](https://link.springer.com/journal/11524](https://link.springer.com/article/10.1007/s11524-024-00920-5.)), 2024.
 
-**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [KES](http://kes2024.kesinternational.org), 2024. [[Paper]](https://drive.google.com/file/d/1PvMINpcGU3p_-_rXVDCsVFzqH4BrlcsD/view?usp=drive_link)
-
-**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), 2024. [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wB3J8nQAAAAJ&citation_for_view=wB3J8nQAAAAJ:u-x6o8ySG0sC)
+**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [KES](http://kes2024.kesinternational.org), 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845)
 
 References
 ------
