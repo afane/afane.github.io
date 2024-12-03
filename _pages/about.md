@@ -34,6 +34,11 @@ Publications
 
 **K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [KES](http://kes2024.kesinternational.org), 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845)
 
+**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, J. Farooq. "ATP: Adaptive Threshold Pruning for Efficient Quantum Data Encoding." Submitted to CVPR 2025. [[Paper]](https://drive.google.com/file/d/1e32RmdXg_2x5Ccrts4jhgNSLiBgRpUU0/view)
+
+**K. Afane**, Q. Long, H. Shen, Y. Mao, J. Chen. "GRAS: Adversarially Robust Quantum Architecture Search." Submitted to CVPR 2025. [[Paper]](https://drive.google.com/file/d/1WIzKM_6GQMaqa24Se6s93FTXOkCNSlFS/view).
+
+
 References
 ------
 
