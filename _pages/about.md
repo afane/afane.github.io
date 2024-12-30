@@ -15,11 +15,13 @@ I'm particularly interested in developing machine learning methods that support 
 Recent News
 ------
 
-Nov. 2024: I will be at [IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) to present our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" [[Arxiv]](https://arxiv.org/abs/2411.13874)
+Dec. 2024: I presented our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" [[Arxiv]](https://arxiv.org/abs/2411.13874) at [IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
+
+Nov. 2024: Fordham News published an interesting article based on my recent interview about our lead testing research. [[Fordham News]](https://now.fordham.edu/science-and-technology/lead-testing-efforts-may-be-missing-kids-in-high-risk-nyc-neighborhoods-study-says/)
 
 Oct. 2024: Our paper on Optimizing Blood Lead Level Testing for Children in New York City was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-Sep. 2024: I presented our paper on Imbalanced Datasets at [the 28th KES conference](http://kes2024.kesinternational.org), [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845)
+Sep. 2024: I presented our paper on Imbalanced Datasets at [the 28th KES conference](http://kes2024.kesinternational.org), [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
 April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [[Competition Results]](https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/)
 
