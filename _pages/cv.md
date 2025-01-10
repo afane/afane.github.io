@@ -21,13 +21,6 @@ Work experience
   * Fordham University, New York.
   * Working on multiple research projects.
     
-* May. 2023 - Aug. 2023: Data Engineering Intern
-  * ADIAS, Mauritania.
-  * Worked with the Big Data Analysis team (BDA), using SQL, HDFS, AWS, Spark, and Azure.
- 
-* Jun. 2020 - Jul. 2021: Business Analyst
-  * SGSA Investments, Mauritania.
-  * Worked on supply chain management and cost reduction;
   
 Skills
 ======
