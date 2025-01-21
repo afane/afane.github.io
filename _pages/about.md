@@ -15,9 +15,9 @@ I'm particularly interested in developing machine learning methods that support 
 Recent News
 ------
 
-Dec. 2024: I presented our paper on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://ieeexplore.ieee.org/abstract/document/10825018).
+Dec. 2024: I presented our [paper](https://ieeexplore.ieee.org/abstract/document/10825018) on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
-Nov. 2024: Fordham News published an interesting article based on my recent interview about our lead testing research. [[Fordham News]](https://now.fordham.edu/science-and-technology/lead-testing-efforts-may-be-missing-kids-in-high-risk-nyc-neighborhoods-study-says/)
+Nov. 2024: Fordham News published an [article](https://now.fordham.edu/science-and-technology/lead-testing-efforts-may-be-missing-kids-in-high-risk-nyc-neighborhoods-study-says/) covering my interview on our lead testing research.
 
 Oct. 2024: Our paper on optimizing lead testing for children in NYC was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
