@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-With master's degrees in engineering and data science, I work on applying machine learning and AI to public health, LLM reliability, and quantum computing. I have extensive research and industry experience as a data analyst and machine learning researcher, contributing to projects that address real-world challenges.
-
-I'm particularly interested in developing machine learning methods that support robust and equitable decision making, and exploring how AI systems can be used to their full potential while ensuring safety, reliability, and fairness.
+With a strong background in engineering and data science, I work on leveraging AI and machine learning for public health, LLM reliability, and quantum computing. My experience as a data analyst and machine learning researcher spans both research and industry, focusing on creating reliable and fair AI solutions that address real-world challenges.
 
 Recent News
 ------
