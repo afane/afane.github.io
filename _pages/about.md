@@ -15,11 +15,11 @@ I'm particularly interested in developing machine learning methods that support 
 Recent News
 ------
 
-Dec. 2024: I presented our paper "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers" at [IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://ieeexplore.ieee.org/abstract/document/10825018).
+Dec. 2024: I presented our paper on LLMs Empowering Phishing Attacks at [IEEE Big Data 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://ieeexplore.ieee.org/abstract/document/10825018).
 
 Nov. 2024: Fordham News published an interesting article based on my recent interview about our lead testing research. [[Fordham News]](https://now.fordham.edu/science-and-technology/lead-testing-efforts-may-be-missing-kids-in-high-risk-nyc-neighborhoods-study-says/)
 
-Oct. 2024: Our paper on Optimizing Blood Lead Level Testing for Children in New York City was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+Oct. 2024: Our paper on optimizing lead testing for children in NYC was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
 Sep. 2024: I presented our paper on Imbalanced Datasets at [the 28th KES conference](http://kes2024.kesinternational.org), [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
@@ -32,23 +32,35 @@ Publications
 
 Machine Learning for Public Health
 ----
-**K. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", 2024, Published by the [Journal of Urban Health](https://link.springer.com/journal/11524) [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+**K. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", 2024. 
 
-**K. Afane**, A. Donaire, and J. Chen, "Investigating the Link Between Health Insurance and Lead Exposure in American Cities", 2025, Submitted to [IEEE International Conference on Healthcare Informatics](https://events.dimes.unical.it/ichi2025/), [[Paper]](https://drive.google.com/file/d/1ipxh-qkm9iZrfj_tyvU22VkVEaTC9QQL/view?usp=sharing).
+Published by the [Journal of Urban Health](https://link.springer.com/journal/11524), [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+
+**K. Afane**, A. Donaire, and J. Chen, "Investigating the Link Between Health Insurance and Lead Exposure in American Cities", 2025. 
+
+Submitted to [IEEE International Conference on Healthcare Informatics](https://events.dimes.unical.it/ichi2025/), [[Paper]](https://drive.google.com/file/d/1ipxh-qkm9iZrfj_tyvU22VkVEaTC9QQL/view?usp=sharing).
 
 
 Quantum Machine Learning
 ---
 
-**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks through Threshold Pruning.", 2025, Submitted to [CVPR](https://cvpr.thecvf.com), [[Paper]](https://drive.google.com/file/d/1e32RmdXg_2x5Ccrts4jhgNSLiBgRpUU0/view)
+**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks through Threshold Pruning.", 2025. 
 
-**K. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", 2025, Submitted to [CVPR](https://cvpr.thecvf.com), [[Paper]](https://drive.google.com/file/d/1WIzKM_6GQMaqa24Se6s93FTXOkCNSlFS/view).
+Submitted to [CVPR](https://cvpr.thecvf.com), [[Paper]](https://drive.google.com/file/d/1e32RmdXg_2x5Ccrts4jhgNSLiBgRpUU0/view)
+
+**K. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", 2025. 
+
+Submitted to [CVPR](https://cvpr.thecvf.com), [[Paper]](https://drive.google.com/file/d/1WIzKM_6GQMaqa24Se6s93FTXOkCNSlFS/view).
 
 Modern Challenges in AI and Data Science
 ---
-**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024, [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
+**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024.
 
-**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024, [28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
+Published by [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
+
+**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. 
+
+Published by the [28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
 References
 ------
