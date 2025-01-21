@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-With a strong background in engineering and data science, I work on leveraging AI and machine learning for public health, LLM reliability, and quantum computing. My experience as a data analyst and machine learning researcher spans both research and industry, focusing on creating reliable and fair AI solutions that address real-world challenges.
+With a strong background in engineering and data science, I work on leveraging AI and machine learning for public health, LLM reliability, and quantum computing. 
+
+My experience as a data analyst and machine learning researcher spans both research and industry, focusing on creating reliable and fair AI solutions that address real-world challenges.
 
 Recent News
 ------
