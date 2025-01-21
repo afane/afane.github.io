@@ -34,7 +34,7 @@ Machine Learning for Public Health
 ----
 **K. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", 2024. Published by the [Journal of Urban Health](https://link.springer.com/journal/11524), [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-**K. Afane**, A. Donaire, and J. Chen, "Investigating the Link Between Health Insurance and Lead Exposure in American Cities", 2025. Submitted to [IEEE International Conference on Healthcare Informatics](https://events.dimes.unical.it/ichi2025/), [[Paper]](https://drive.google.com/file/d/1ipxh-qkm9iZrfj_tyvU22VkVEaTC9QQL/view?usp=sharing).
+**K. Afane**, A. Donaire, and J. Chen, "Investigating the Link Between Health Insurance and Lead Exposure in American Cities", 2025. Submitted to [IEEE ICHI](https://events.dimes.unical.it/ichi2025/), [[Paper]](https://drive.google.com/file/d/1ipxh-qkm9iZrfj_tyvU22VkVEaTC9QQL/view?usp=sharing).
 
 
 Quantum Machine Learning
@@ -48,7 +48,7 @@ Modern Challenges in AI and Data Science
 ---
 **K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024. Published by [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
 
-**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. Published by the [28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
+**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. Published by the [28th International KES](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
 References
 ------
