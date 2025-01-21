@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-With a master's degree in engineering and data science, I work on applying machine learning and AI to public health, LLM reliability, and quantum computing. I have extensive research and industry experience as a data analyst and machine learning researcher, contributing to projects that address real-world challenges.
+With master's degrees in engineering and data science, I work on applying machine learning and AI to public health, LLM reliability, and quantum computing. I have extensive research and industry experience as a data analyst and machine learning researcher, contributing to projects that address real-world challenges.
 
 I'm particularly interested in developing machine learning methods that support robust and equitable decision making, and exploring how AI systems can be used to their full potential while ensuring safety, reliability, and fairness.
 
@@ -21,7 +21,7 @@ Nov. 2024: Fordham News published an [article](https://now.fordham.edu/science-a
 
 Oct. 2024: Our paper on optimizing lead testing for children in NYC was published by The [Journal of Urban Health](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-Sep. 2024: I presented our paper on Imbalanced Datasets at [the 28th KES conference](http://kes2024.kesinternational.org), [[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
+Sep. 2024: I presented our [paper](https://www.sciencedirect.com/science/article/pii/S1877050924025845) on Imbalanced Datasets at [the 28th KES conference](http://kes2024.kesinternational.org).
 
 April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [[Competition Results]](https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/)
 
