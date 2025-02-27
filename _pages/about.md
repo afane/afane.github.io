@@ -15,7 +15,7 @@ My experience as a data analyst and machine learning researcher spans both resea
 Recent News
 ------
 
-🟥 **Feb. 2025:** Our paper Efficient Image Processing for Quantum Neural Networks has been accepted to **CVPR 2025**.
+🟥 **Feb. 2025:** Our paper Efficient Image Processing for Quantum Models has been accepted to **CVPR 2025**.
 
 Dec. 2024: I presented our [paper](https://ieeexplore.ieee.org/abstract/document/10825018) on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
