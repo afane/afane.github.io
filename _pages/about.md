@@ -15,6 +15,8 @@ My experience as a data analyst and machine learning researcher spans both resea
 Recent News
 ------
 
+🟥 **Feb. 2025:** Our paper Efficient Image Processing for Quantum Neural Networks has been accepted to **CVPR 2025**.
+
 Dec. 2024: I presented our [paper](https://ieeexplore.ieee.org/abstract/document/10825018) on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
 Nov. 2024: Fordham News published an [article](https://now.fordham.edu/science-and-technology/lead-testing-efforts-may-be-missing-kids-in-high-risk-nyc-neighborhoods-study-says/) covering my interview on our lead research.
@@ -39,15 +41,22 @@ Machine Learning for Public Health
 Quantum Machine Learning
 -----
 
-**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", 2025. Under Review, [[Paper]](https://drive.google.com/file/d/1e32RmdXg_2x5Ccrts4jhgNSLiBgRpUU0/view)
+**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", 2025. Under CVPR, [[Paper]](https://drive.google.com/file/d/1e32RmdXg_2x5Ccrts4jhgNSLiBgRpUU0/view)
 
 **K. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Under Review, [[Paper]](https://drive.google.com/file/d/1WIzKM_6GQMaqa24Se6s93FTXOkCNSlFS/view).
 
+**K. Afane**, J. Chen, et al. Q-Know: Benchmarking Large Language Models Quantum Computing Knowledge. In Progress.
+
+
 Modern Challenges in AI and Data Science
 -----
+
 **K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024. Published by [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
 
 **K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. Published by the [28th International KES](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
+
+**K. Afane**, J. Chen, et al. Healing or Hacking? The Risk of Backdoor Attacks in Medical AI. In Progress.
+
 
 References
 ------
