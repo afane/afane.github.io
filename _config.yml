@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Khalifa Afane"
+title                    : "Mohamed Afane"
 title_separator          : "-"
-name                     : &name "Khalifa Afane"
-description              : &description "The personal website of Khalifa Afane, featuring projects, blog posts, and more."
+name                     : &name "Mohamed Afane"
+description              : &description "The personal website of Mohamed Afane, featuring projects, blog posts, and more."
 url                      : https://afane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Khalifa Afane"
@@ -22,7 +22,7 @@ repository               : "Khalifa Afane"
 author:
   # Biographic information
   avatar           : "profile24.png"
-  name             : "Khalifa Afane"
+  name             : "Mohamed Afane"
   pronouns         : # example: "she/her"  
   bio              : "Email: mafane@fordham.edu"
   location         : "New York, USA"
