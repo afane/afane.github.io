@@ -41,7 +41,7 @@ Machine Learning for Public Health
 Quantum Machine Learning
 -----
 
-**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", 2025. Under CVPR, [[Paper]](https://drive.google.com/file/d/1e32RmdXg_2x5Ccrts4jhgNSLiBgRpUU0/view)
+**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", 2025. CVPR, [[Paper]](https://arxiv.org/abs/2503.21815)
 
 **K. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Under Review, [[Paper]](https://drive.google.com/file/d/1WIzKM_6GQMaqa24Se6s93FTXOkCNSlFS/view).
 
