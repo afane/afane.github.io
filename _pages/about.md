@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-With a strong background in engineering and data science, I work on leveraging AI and machine learning for public health, LLM reliability, and quantum computing. 
-
-My experience as a data analyst and machine learning researcher spans both research and industry, focusing on creating reliable and fair AI solutions that address real-world challenges.
+Data scientist and machine learning researcher, with previous experience as a data analyst, data engineerig intern and energy analyst.
+I have worked extensively with health, financial, and energy data. extracting business insight and publishing high quality research papers at conferences and journals like CVPR, IEEE Big Data and Journal of Urban Health.
+I'm experinced with programming languages and tools like Python, SQL, Google Cloud, AWS, Apache Spark, HDFS, Snowflake, ETL development, and Data Modeling.
 
 Recent News
 ------
