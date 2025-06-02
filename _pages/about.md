@@ -35,28 +35,31 @@ Publications
 
 Machine Learning for Public Health
 -----
-**K. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", 2024. Published by the [Journal of Urban Health](https://link.springer.com/journal/11524), [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+**M. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", 2024. Published by the [Journal of Urban Health](https://link.springer.com/journal/11524), [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-**K. Afane**, A. Donaire, and J. Chen, "Investigating the Link Between Health Insurance and Lead Exposure in American Cities", 2025. Submitted to [IEEE ICHI](https://events.dimes.unical.it/ichi2025/), [[Paper]](https://drive.google.com/file/d/1ipxh-qkm9iZrfj_tyvU22VkVEaTC9QQL/view?usp=sharing).
+**M. Afane**, A. Donaire, and J. Chen, "Uncovering Correlations Between Health Coverage and Lead Vulnerability in American Citie", Under Review. [[Paper]](https://drive.google.com/file/d/1N1YX3ZjCdg76A6KoiPWsAynJVrrf0wIm/view?usp=sharing)
 
 Quantum Machine Learning
 -----
+**M. Afane**, K. Laufer, W. Wei, Y. Mao, J. Farooq, Y. Wang, and J. Chen. "QC-Bench: What Do LLMs Really Know About Quantum Computing?", Submitted to NeurIPS 2025. [[Paper]](https://drive.google.com/file/d/1d52lZAt1GvySsGWV8ek1UsfYeJ1I9f5F/view?usp=sharing).
 
-**K. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", 2025. CVPR, [[Paper]](https://arxiv.org/abs/2503.21815)
+**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", CVPR 2025. [[Paper]](https://arxiv.org/abs/2503.21815)
 
-**K. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Under Review, [[Paper]](https://drive.google.com/file/d/1WIzKM_6GQMaqa24Se6s93FTXOkCNSlFS/view).
+**M. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Submitted to ICCV 2025. [[Paper]](https://drive.google.com/file/d/1XGdujNX4xFco2rC0iyT35EXPY5bRO-lM/view?usp=sharing).
 
-**K. Afane**, J. Chen, et al. Q-Know: Benchmarking Large Language Models Quantum Computing Knowledge. In Progress.
+
+
+
 
 
 Modern Challenges in AI and Data Science
 -----
 
-**K. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024. Published by [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
+**M. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024. Published by [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
 
-**K. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. Published by the [28th International KES](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
+**M. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. Published by the [28th International KES](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
-**K. Afane**, J. Chen, et al. Healing or Hacking? The Risk of Backdoor Attacks in Medical AI. In Progress.
+**M. Afane**, J. Chen, et al. Healing or Hacking? The Risk of Backdoor Attacks in Medical AI. In Progress.
 
 
 References
