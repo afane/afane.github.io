@@ -55,9 +55,9 @@ Quantum Machine Learning
 Modern Challenges in AI and Data Science
 -----
 
-**M. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", 2024. Published by [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/), [[Paper]](https://arxiv.org/abs/2411.13874).
+**M. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 2024. [[Paper]](https://arxiv.org/abs/2411.13874).
 
-**M. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", 2024. Published by the [28th International KES](http://kes2024.kesinternational.org),[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
+**M. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [28th International KES](http://kes2024.kesinternational.org) 2024.[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
 **M. Afane**, J. Chen, et al. Healing or Hacking? The Risk of Backdoor Attacks in Medical AI. In Progress.
 
