@@ -35,15 +35,15 @@ Publications
 
 Machine Learning for Public Health
 -----
-**M. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", 2024. Published by the [Journal of Urban Health](https://link.springer.com/journal/11524), [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+**M. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", [Journal of Urban Health](https://link.springer.com/journal/11524) 2024, [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-**M. Afane**, A. Donaire, and J. Chen, "Uncovering Correlations Between Health Coverage and Lead Vulnerability in American Citie", Under Review. [[Paper]](https://drive.google.com/file/d/1N1YX3ZjCdg76A6KoiPWsAynJVrrf0wIm/view?usp=sharing)
+**M. Afane**, A. Donaire, and J. Chen, "Uncovering Correlations Between Health Coverage and Lead Vulnerability in American Cities", Under Review. [[Paper]](https://drive.google.com/file/d/1N1YX3ZjCdg76A6KoiPWsAynJVrrf0wIm/view?usp=sharing)
 
 Quantum Machine Learning
 -----
 **M. Afane**, K. Laufer, W. Wei, Y. Mao, J. Farooq, Y. Wang, and J. Chen. "QC-Bench: What Do LLMs Really Know About Quantum Computing?", Submitted to NeurIPS 2025. [[Paper]](https://drive.google.com/file/d/1d52lZAt1GvySsGWV8ek1UsfYeJ1I9f5F/view?usp=sharing).
 
-**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "Efficient Data Encoding in Quantum Neural Networks.", CVPR 2025. [[Paper]](https://arxiv.org/abs/2503.21815)
+**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networkss", CVPR 2025. [[Paper]](https://arxiv.org/abs/2503.21815)
 
 **M. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Submitted to ICCV 2025. [[Paper]](https://drive.google.com/file/d/1XGdujNX4xFco2rC0iyT35EXPY5bRO-lM/view?usp=sharing).
 
