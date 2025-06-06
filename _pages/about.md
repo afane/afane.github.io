@@ -16,7 +16,7 @@ I'm experinced with programming languages and tools like Python, SQL, Google Clo
 Recent News
 ------
 
-🟥 **Feb. 2025:** Our paper on Image Encoding for Quantum Models is accepted to **CVPR 2025**.
+🟥 **Feb. 2025:** Our [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf) on Image Encoding for Quantum Models is accepted to **CVPR 2025**.
 
 Dec. 2024: I presented our [paper](https://ieeexplore.ieee.org/abstract/document/10825018) on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
