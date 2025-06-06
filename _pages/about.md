@@ -41,9 +41,9 @@ Machine Learning for Public Health
 
 Quantum Machine Learning
 -----
-**M. Afane**, K. Laufer, W. Wei, Y. Mao, J. Farooq, Y. Wang, and J. Chen. "QC-Bench: What Do LLMs Really Know About Quantum Computing?", Submitted to NeurIPS 2025. [[Paper]](https://drive.google.com/file/d/1d52lZAt1GvySsGWV8ek1UsfYeJ1I9f5F/view?usp=sharing).
+**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networkss", CVPR 2025. [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf)
 
-**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networkss", CVPR 2025. [[Paper]](https://arxiv.org/abs/2503.21815)
+**M. Afane**, K. Laufer, W. Wei, Y. Mao, J. Farooq, Y. Wang, and J. Chen. "QC-Bench: What Do LLMs Really Know About Quantum Computing?", Submitted to NeurIPS 2025. [[Paper]](https://drive.google.com/file/d/1d52lZAt1GvySsGWV8ek1UsfYeJ1I9f5F/view?usp=sharing).
 
 **M. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Submitted to ICCV 2025. [[Paper]](https://drive.google.com/file/d/1XGdujNX4xFco2rC0iyT35EXPY5bRO-lM/view?usp=sharing).
 
