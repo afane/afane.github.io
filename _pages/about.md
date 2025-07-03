@@ -9,14 +9,14 @@ redirect_from:
 
 
 Data scientist and machine learning researcher, with previous experience as a data engineerig intern and data analyst.
-I have worked extensively with health, financial, and energy data. extracting business insight and publishing high quality research papers at conferences and journals like CVPR, IEEE Big Data and Journal of Urban Health, with my most recent works under review for NeurIPS, ICCV, and AAAI.
+I have worked extensively with health, financial, and energy data. extracting business insight and publishing research papers at conferences and journals like CVPR, IEEE Big Data and Journal of Urban Health, with my most recent works under review for NeurIPS, and AAAI.
 
-I'm experinced with programming languages and tools like Python, SQL, Google Cloud, AWS, Apache Spark, HDFS, Snowflake, ETL development, and Data Modeling.
+My current research uses AI and machine learning to better understand and respond to issues like lead contamination, housing inequality, and heat vulnerability in New York, especially in historically marginalized communities.
 
 Recent News
 ------
 
-🟥 **Jun. 2025:** I will present our [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf) on efficent image encoding for QNNs at **CVPR 2025**.
+**Jun. 2025:** I presented our [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf) on efficent image encoding for QNNs at **CVPR 2025**.
 
 Dec. 2024: I presented our [paper](https://ieeexplore.ieee.org/abstract/document/10825018) on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
