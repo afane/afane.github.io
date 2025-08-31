@@ -24,6 +24,53 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<!-- Pixelated Loading Effect -->
+<style>
+.pixelated-load {
+  animation: pixelate-in 1.5s ease-out;
+  image-rendering: pixelated;
+}
+
+@keyframes pixelate-in {
+  0% {
+    filter: blur(20px) contrast(0.5);
+    image-rendering: pixelated;
+    transform: scale(0.8);
+    opacity: 0;
+  }
+  25% {
+    filter: blur(15px) contrast(0.7);
+    image-rendering: pixelated;
+    transform: scale(0.85);
+    opacity: 0.3;
+  }
+  50% {
+    filter: blur(10px) contrast(0.8);
+    image-rendering: pixelated;
+    transform: scale(0.9);
+    opacity: 0.6;
+  }
+  75% {
+    filter: blur(5px) contrast(0.9);
+    image-rendering: pixelated;
+    transform: scale(0.95);
+    opacity: 0.8;
+  }
+  100% {
+    filter: blur(0px) contrast(1);
+    image-rendering: auto;
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Add a subtle glow effect when hovering */
+.pixelated-load:hover {
+  transition: all 0.3s ease;
+  filter: brightness(1.1) contrast(1.1);
+  transform: scale(1.02);
+}
+</style>
 
 <!-- Support for MatJax -->
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
