@@ -36,7 +36,7 @@ Machine Learning for Public Health
 -----
 **M. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", [Journal of Urban Health](https://link.springer.com/journal/11524) 2024, [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-**M. Afane**, A. Donaire, and J. Chen, "Uncovering Correlations Between Health Coverage and Lead Vulnerability in American Cities", Under Review.
+**M. Afane**, Y. Wang, and J. Chen, "Can LLMs Help Allocate Public Health Resources? A Case Study on Childhood Lead Testing", Accepted at IEEE BigData 25.
 
 Quantum Machine Learning
 -----
@@ -54,11 +54,11 @@ Quantum Machine Learning
 Modern Challenges in AI and Data Science
 -----
 
-**M. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 2024. [[Paper]](https://arxiv.org/abs/2411.13874).
+**M. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE BigData](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 2024. [[Paper]](https://arxiv.org/abs/2411.13874).
 
 **M. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [28th International KES](http://kes2024.kesinternational.org) 2024.[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
 
-**M. Afane**, J. Chen, et al. Healing or Hacking? The Risk of Backdoor Attacks in Medical AI. In Progress.
+**M. Afane**, J. Chen, et al. "SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models". Accepted at IEEE BigData 25.
 
 
 References
