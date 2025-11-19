@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-Machine learning researcher focused on evaluating and improving the reliability of large language models. I develop benchmarks for testing AI systems on complex reasoning tasks, particularly in legal domains like unemployment insurance adjudication and statutory analysis across multiple jurisdictions, as well as public health resource allocation. 
-
-My research examines model vulnerabilities including backdoor attacks, adversarial robustness, and factual accuracy in legal contexts.I have published at venues including CVPR and IEEE Big Data, with recent work under review at ICLR and CS&Law. My work addresses critical challenges in deploying AI systems for legal reasoning and policy decision-making.
+Machine learning researcher focused on evaluating and improving the reliability of LLMs. I develop benchmarks for testing AI systems on complex reasoning tasks, particularly in legal domains like unemployment insurance adjudication and statutory analysis across multiple jurisdictions. I have extensive research experience working on model vulnerabilities including backdoor attacks, and adversarial robustness in both NLP and Computer Vision.
 
 Recent News
 ------
