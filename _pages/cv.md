@@ -15,7 +15,6 @@ Education
 Work experience
 ======
 
-
     
   
 Skills
