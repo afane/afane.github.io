@@ -8,12 +8,18 @@ redirect_from:
 ---
 
 
-Machine learning researcher focused on evaluating and improving the reliability of LLMs. I develop benchmarks for testing AI systems on complex reasoning tasks, particularly in legal domains like unemployment insurance adjudication and statutory analysis across multiple jurisdictions. I have extensive research experience working on model vulnerabilities including backdoor attacks, and adversarial robustness in both NLP and Computer Vision.
+AI researcher at Stanford University focused on evaluating and improving the reliability of LLMs. I develop benchmarks for testing AI systems on complex reasoning tasks, particularly in legal domains like unemployment insurance adjudication and statutory analysis. I have extensive research experience working on model vulnerabilities including backdoor attacks and adversarial robustness in both NLP and Computer Vision, as well as experience as a data engineer building data pipelines and scaling cloud infrastructure.
 
 Recent News
 ------
 
-**Jun. 2025:** I presented our [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf) on efficent image encoding for QNNs at **CVPR 2025**.
+Mar. 2026: I will be presenting our [paper](https://tobin.yale.edu/sites/default/files/2026-01/CS_LAW_LaborBench_20260113.pdf) on benchmarking legal AI systems at [CS&Law 2026](https://computersciencelaw.org/2026/).
+
+Dec. 2025: I presented our [work](https://arxiv.org/abs/2512.10998) on defending against data poisoning in fine-tuned LLMs at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/).
+
+Aug. 2025: I joined Stanford University as an AI Research Fellow.
+
+Jun. 2025: I presented our [paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf) on efficent image encoding for QNNs at CVPR 2025.
 
 Dec. 2024: I presented our [paper](https://ieeexplore.ieee.org/abstract/document/10825018) on LLMs Empowering Phishing Attacks at [IEEE Big Data](https://www3.cs.stonybrook.edu/~ieeebigdata2024/).
 
