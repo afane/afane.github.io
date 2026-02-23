@@ -15,7 +15,7 @@ Recent News
 
 Mar. 2026: I will be presenting our [paper](https://tobin.yale.edu/sites/default/files/2026-01/CS_LAW_LaborBench_20260113.pdf) on benchmarking legal AI systems at [CS&Law 2026](https://computersciencelaw.org/2026/).
 
-Dec. 2025: I presented our [work](https://arxiv.org/abs/2512.10998) on defending against data poisoning in fine-tuned LLMs at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/).
+Dec. 2025: I presented our [work](https://arxiv.org/abs/2512.10998) on data poisoning in fine-tuned LLMs at [IEEE Big Data 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/).
 
 Aug. 2025: I joined Stanford University as an AI Research Fellow.
 
@@ -31,7 +31,6 @@ Sep. 2024: I presented our [paper](https://www.sciencedirect.com/science/article
 
 April. 2024: I won the third place award at the Fordham Three Minute Thesis Competition for our research paper on Lead Testing for Childeren in New York City. [[Competition Results]](https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/professional-development/three-minute-thesis-competition/)
 
-May. 2023: I was featured by the U.S. Embassy Mauritania Facebook page after finishing my master's degree as part of the Fulbright Program [[Post]](https://www.facebook.com/usembnouakchott/posts/pfbid028hwuTBcjcYLMGxu725uQggimQyzJDhGNe4ZeKtDMKTjZ9xM9QZKw8RpFEWLoEVgql)
 
 Publications
 --------
