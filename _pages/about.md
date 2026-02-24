@@ -35,38 +35,34 @@ April. 2024: I won the third place award at the Fordham Three Minute Thesis Comp
 Publications
 --------
 
+AI Benchmarking and Evaluation
+-----
+**M. Afane**, E. Hariri, D. Ouyang, and D. Ho, "Benchmarking Legal RAG: The Promise and Limits of AI Statutory Surveys", [CS&Law](https://computersciencelaw.org/2026/), [[Paper]](https://tobin.yale.edu/sites/default/files/2026-01/CS_LAW_LaborBench_20260113.pdf).
+
+**M. Afane**, K. Laufer, W. Wei, Y. Mao, J. Farooq, Y. Wang, and J. Chen. "Quantum-Audit: Evaluating the Reasoning Limits of LLMs on Quantum Computing", Submitted to [KDD](https://kdd2026.kdd.org/), [[Paper]](https://arxiv.org/pdf/2602.10092).
+
+**M. Afane**, J. Chen, et al. "SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models". [IEEE BigData](https://conferences.cis.um.edu.mo/ieeebigdata2025/), [[Paper]](https://arxiv.org/abs/2512.10998).
+
+**M. Afane**, J. Chen, et al.  "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE BigData](https://www3.cs.stonybrook.edu/~ieeebigdata2024/). [[Paper]](https://arxiv.org/abs/2411.13874).
+
+
 Machine Learning for Public Health
 -----
-**M. Afane** and J. Chen, "Analyzing and Optimizing the Distribution of Blood Lead Level Testing for Children in New York City", [Journal of Urban Health](https://link.springer.com/journal/11524) 2024, [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
+**M. Afane** and J. Chen, "Optimizing Blood Lead Level Testing for Children in New York City", [Journal of Urban Health](https://link.springer.com/journal/11524), [[Paper]](https://link.springer.com/article/10.1007/s11524-024-00920-5).
 
-**M. Afane**, Y. Wang, and J. Chen, "Can LLMs Help Allocate Public Health Resources? A Case Study on Childhood Lead Testing", Accepted at IEEE BigData 25.
+**M. Afane**, Y. Wang, and J. Chen, "Can LLMs Help Allocate Public Health Resources? A Case Study on Childhood Lead Testing", [IEEE BigData](https://conferences.cis.um.edu.mo/ieeebigdata2025/)
 
 Quantum Machine Learning
 -----
-**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networkss", CVPR 2025. [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf)
+**M. Afane**, G. Ebbrecht, Y. Wang, J. Chen, and J. Farooq. "ATP: Adaptive Threshold Pruning for Efficient Data Encoding in Quantum Neural Networkss", [CVPR](https://cvpr.thecvf.com/Conferences/2025). [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Afane_ATP_Adaptive_Threshold_Pruning_for_Efficient_Data_Encoding_in_Quantum_CVPR_2025_paper.pdf)
 
-**M. Afane**, K. Laufer, W. Wei, Y. Mao, J. Farooq, Y. Wang, and J. Chen. "Benchmarking Large Language Models Quantum Computing Knowledge", Submitted to ICLR 2026.
+**M. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Differentiable Architecture Search for Adversarially Robust Quantum Computer Vision", [Quantum Machine Intelligence](https://link.springer.com/journal/42484), [[Paper]](https://arxiv.org/pdf/2601.18058).
 
-**M. Afane**, Q. Long, H. Shen, Y. Mao, and J. Chen. "Quantum Architecture Optimization for Adversarial Robustness.", Submitted to Quantum Machine Intelligence.
-
-
-
-
-
-
-Modern Challenges in AI and Data Science
------
-
-**M. Afane**, W. Wei, Y. Mao, and J. Chen, "Next-Generation Phishing: How LLM Agents Empower Cyber Attackers", [IEEE BigData](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 2024. [[Paper]](https://arxiv.org/abs/2411.13874).
-
-**M. Afane** and Y. Zhao, "Selecting Classifiers and Resampling Techniques for Imbalanced Datasets: A New Perspective", [28th International KES](http://kes2024.kesinternational.org) 2024.[[Paper]](https://www.sciencedirect.com/science/article/pii/S1877050924025845).
-
-**M. Afane**, J. Chen, et al. "SCOUT: A Defense Against Data Poisoning Attacks in Fine-Tuned Language Models". Accepted at IEEE BigData 25.
 
 
 References
 ------
 
-[Juntao Chen](https://juntaochen1.github.io)
+[Daniel E. Ho](https://law.stanford.edu/daniel-e-ho/)
 
-[Yijun Zhao](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/yijun-zhao/)
+[Juntao Chen](https://juntaochen1.github.io)
