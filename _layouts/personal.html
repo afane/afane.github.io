@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f1ec">
+  <title>Mohamed Afane — AI Researcher</title>
+  <meta name="description" content="Mohamed Afane is a data scientist and AI researcher working on reliable AI, legal reasoning, and public systems.">
+  <meta property="og:title" content="Mohamed Afane — AI Researcher"><meta property="og:description" content="Research on reliable AI, legal reasoning, and public systems."><meta property="og:type" content="website"><meta property="og:url" content="https://afane.github.io/"><meta property="og:image" content="https://afane.github.io/images/Profile25.jpeg">
+  <link rel="icon" href="{{ '/images/stanford-favicon.png' | relative_url }}?v=2" type="image/png"><script>document.documentElement.classList.add('js')</script>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Manrope:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/personal.css' | relative_url }}?v=20260919-10"><script defer src="{{ '/assets/js/personal.js' | relative_url }}?v=20260919-10"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header" data-header>
+    <a class="wordmark" href="#top" aria-label="Mohamed Afane, home">Mohamed Afane</a>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="site-nav" data-menu><span>Menu</span><i aria-hidden="true"></i></button>
+    <nav id="site-nav" class="site-nav" aria-label="Primary" data-nav><a href="#research">Research</a><a href="#publications">Publications</a><a href="#recognition">Recognition</a><a href="#about">About</a></nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="top">
+      <div class="hero-field" aria-hidden="true"><canvas data-field></canvas><span class="field-label field-label-a">MODELS</span><span class="field-label field-label-b">METHODS</span><span class="field-label field-label-c">IMPACT</span></div>
+      <div class="hero-copy reveal">
+        <h1><strong>I build and</strong><strong>evaluate</strong><em>AI systems.</em></h1>
+        <p class="hero-deck">My research covers language models, legal reasoning, model security, and public-interest applications. I study how these systems work, where they fail, and how they can be improved.</p>
+        <div class="hero-actions"><a class="button button-dark" href="#research">Explore the research <span aria-hidden="true">↘</span></a><a class="text-link" href="mailto:afane@law.stanford.edu">afane@law.stanford.edu <span aria-hidden="true">↗</span></a></div>
+      </div>
+      <div class="hero-aside reveal"><div class="portrait-frame"><img src="{{ '/images/Profile25.jpeg' | relative_url }}" alt="Mohamed Afane at CVPR"><span class="portrait-index">01 / PALO ALTO</span></div><p><b class="hero-affiliation">Data scientist &amp; AI researcher at <a href="https://reglab.stanford.edu/">Stanford RegLab</a>.</b><small>Working across machine learning, law, and public policy.</small></p></div>
+      <div class="research-ticker" aria-hidden="true"><p>LLM EVALUATION · LEGAL AI · MODEL SECURITY · PUBLIC-INTEREST TECHNOLOGY · LLM EVALUATION · LEGAL AI · MODEL SECURITY · PUBLIC-INTEREST TECHNOLOGY ·</p><p>LLM EVALUATION · LEGAL AI · MODEL SECURITY · PUBLIC-INTEREST TECHNOLOGY · LLM EVALUATION · LEGAL AI · MODEL SECURITY · PUBLIC-INTEREST TECHNOLOGY ·</p></div>
+    </section>
+
+    <section class="research" id="research">
+      <div class="section-heading reveal"><p class="kicker">01 · Selected research</p><h2>Selected work across reasoning, retrieval, and reliable AI.</h2></div>
+      <article class="feature feature-spec reveal">
+        <div class="feature-copy"><div class="feature-meta"><span>ICAIL 2026</span><span class="award-pill">Peter Jackson Best Innovative Application Paper</span></div><h3>Learning When Not to Decide</h3><p class="feature-subtitle">A framework for overcoming factual presumptuousness in AI adjudication</p><p>Leading AI systems issued decisions in cases missing critical legal facts. We introduced SPEC, a structured method that identifies missing evidence before allowing a determination.</p><div class="feature-links"><a href="https://arxiv.org/abs/2604.19895">Read the paper <span aria-hidden="true">↗</span></a><span>with Emily Robitschek, Derek Ouyang &amp; Daniel E. Ho</span></div></div>
+        <div class="figure-card spec-figure" role="img" aria-label="Performance trajectories from baseline to enhanced prompting. SPEC achieves 89 percent accuracy on both complete and inconclusive cases without the tradeoff shown by other systems.">
+          <div class="figure-topline"><span>Determination–deferral tradeoff</span><span>Paper · Figure 6</span></div>
+          <svg class="tradeoff-plot" viewBox="0 0 640 440" aria-hidden="true">
+            <g class="plot-grid"><path d="M82 42V366H590M82 366H590M82 285H590M82 204H590M82 123H590M82 42H590M184 42V366M286 42V366M387 42V366M489 42V366M590 42V366"/></g>
+            <g class="plot-labels"><text x="82" y="390">0</text><text x="176" y="390">.2</text><text x="278" y="390">.4</text><text x="379" y="390">.6</text><text x="481" y="390">.8</text><text x="580" y="390">1.0</text><text x="55" y="370">.5</text><text x="55" y="289">.6</text><text x="55" y="208">.7</text><text x="55" y="127">.8</text><text x="55" y="46">.9</text><text class="axis-title" x="336" y="426">Accuracy on inconclusive cases</text><text class="axis-title axis-y" transform="translate(18 230) rotate(-90)">Accuracy on complete cases</text></g>
+            <g class="trajectory sonnet"><path d="M123 91 L306 74"/><circle cx="123" cy="91" r="6"/><circle cx="306" cy="74" r="7"/><text x="216" y="62">Sonnet 4.5</text></g>
+            <g class="trajectory gemini"><path d="M158 74 L412 91"/><circle cx="158" cy="74" r="6"/><circle cx="412" cy="91" r="7"/><text x="406" y="116">Gemini 3</text></g>
+            <g class="trajectory gpt"><path d="M234 115 L539 253"/><circle cx="234" cy="115" r="6"/><circle cx="539" cy="253" r="7"/><text x="500" y="281">GPT 5.2</text></g>
+            <g class="spec-point"><circle cx="534" cy="83" r="22"/><circle cx="534" cy="83" r="7"/><text x="504" y="47">SPEC</text><path d="M534 60V20M511 83H468"/></g>
+          </svg>
+          <div class="plot-callout"><b>89 / 89</b><p>Accuracy on complete / inconclusive cases</p></div>
+        </div>
+      </article>
+      <article class="feature feature-rag reveal" id="legal-rag">
+        <div class="feature-copy"><div class="feature-meta"><span>ACM CS&amp;Law 2026</span><span>Legal RAG</span></div><h3 class="rag-title">Benchmarking<br>Legal RAG</h3><p class="feature-subtitle">The promise and limits of AI statutory surveys</p><p>We evaluated legal research tools across all 50 states. STARA outperformed commercial systems and surfaced valid laws missing from the federal expert compilation used as ground truth.</p><div class="feature-links"><a href="https://arxiv.org/abs/2603.03300">Read the paper <span aria-hidden="true">↗</span></a><span>Presented at UC Berkeley, March 2026</span></div></div>
+        <div class="figure-card figure-light" role="img" aria-label="Accuracy comparison: Westlaw AI 58 percent, Lexis Plus AI 64 percent, standard RAG 70 percent, and STARA 90 percent."><div class="figure-topline"><span>Statutory survey accuracy</span><span>50 states</span></div><div class="dot-plot" data-plot><div class="plot-axis"><i>50</i><i>60</i><i>70</i><i>80</i><i>90</i><i>100%</i></div><div class="plot-row" style="--point:16%"><span>Westlaw AI</span><i></i><b>58</b></div><div class="plot-row" style="--point:28%"><span>Lexis+ AI</span><i></i><b>64</b></div><div class="plot-row" style="--point:40%"><span>Standard RAG</span><i></i><b>70</b></div><div class="plot-row is-corrected" style="--point:80%"><span>STARA</span><i></i><b>90%</b></div></div><p class="figure-note"><strong>90%</strong> accuracy across the 50-state statutory survey benchmark.</p></div>
+      </article>
+      <article class="feature feature-lead-testing reveal" id="lead-testing">
+        <div class="feature-copy"><div class="feature-meta"><span>Journal of Urban Health · 2025</span><span>Public health</span></div><h3><b>Lead Testing</b><br>in New York City</h3><p class="feature-subtitle">Finding a fairer distribution of childhood blood lead testing</p><p>We analyzed testing and elevated blood lead levels across 42 New York City neighborhoods, then optimized resource allocation toward underserved areas with greater need.</p><div class="feature-links"><a href="https://doi.org/10.1007/s11524-024-00920-5">Read the paper <span aria-hidden="true">↗</span></a><span>with Juntao Chen</span></div></div>
+        <figure class="lead-map-card"><div class="figure-topline"><span>Neighborhood risk profiles</span><span>NYC · 2005–2021</span></div><div class="lead-map-wrap"><img src="{{ '/images/lead-testing-nyc-map.jpg' | relative_url }}" alt="Map of New York City neighborhoods grouped into average, low, declining, rising, and high blood lead level risk profiles."></div><figcaption><strong>14.3%</strong><span>projected increase in cases detected through optimized testing allocation</span><small>Published figure: final neighborhood clustering</small></figcaption></figure>
+      </article>
+    </section>
+
+    <section class="publications" id="publications">
+      <div class="section-heading reveal"><p class="kicker">02 · Publications</p><h2>Across legal AI, trustworthy machine learning, security, and public health.</h2><a class="section-link" href="https://scholar.google.com/citations?user=wB3J8nQAAAAJ&hl=en&oi=sra">Google Scholar <span aria-hidden="true">↗</span></a></div>
+      <div class="publication-list">
+        <a class="publication reveal" href="https://arxiv.org/abs/2604.19895"><span class="pub-year">2026</span><span class="pub-type">Legal AI</span><span class="pub-main"><strong>Learning When Not to Decide</strong><small>ICAIL · Peter Jackson Best Innovative Application Paper</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+        <a class="publication reveal" href="https://arxiv.org/abs/2603.03300"><span class="pub-year">2026</span><span class="pub-type">Legal RAG</span><span class="pub-main"><strong>Benchmarking Legal RAG</strong><small>ACM Symposium on Computer Science and Law</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+        <a class="publication reveal" href="https://arxiv.org/abs/2512.10998"><span class="pub-year">2025</span><span class="pub-type">AI Security</span><span class="pub-main"><strong>SCOUT: A Defense Against Data Poisoning</strong><small>IEEE International Conference on Big Data</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+        <a class="publication reveal" href="https://arxiv.org/abs/2511.18239"><span class="pub-year">2025</span><span class="pub-type">Public Health</span><span class="pub-main"><strong>Can LLMs Help Allocate Public Health Resources?</strong><small>A case study on childhood lead testing · IEEE Big Data</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+        <a class="publication reveal" href="https://doi.org/10.1007/s11524-024-00920-5"><span class="pub-year">2025</span><span class="pub-type">Public Health</span><span class="pub-main"><strong>Optimizing Blood Lead Level Testing in New York City</strong><small>Journal of Urban Health</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+        <a class="publication reveal" href="https://arxiv.org/abs/2411.13874"><span class="pub-year">2024</span><span class="pub-type">AI Security</span><span class="pub-main"><strong>Next-Generation Phishing</strong><small>IEEE International Conference on Big Data</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+        <a class="publication reveal" href="https://doi.org/10.1016/j.procs.2024.09.539"><span class="pub-year">2024</span><span class="pub-type">Machine Learning</span><span class="pub-main"><strong>Selecting Classifiers and Resampling Techniques</strong><small>28th International KES Conference</small></span><span class="pub-arrow" aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+
+    <section class="recognition" id="recognition"><div class="section-heading reveal"><p class="kicker">03 · Recognition</p><h2>Selected honors.</h2></div><div class="honors-grid"><article class="honor honor-lead reveal"><span class="honor-year">2026</span><span class="honor-symbol" aria-hidden="true">✦</span><h3>Peter Jackson Best Innovative Application Paper Award</h3><p>International Conference on Artificial Intelligence and Law</p></article><article class="honor reveal"><span class="honor-year">2024</span><h3>Third Place</h3><p>Fordham Three Minute Thesis Competition</p></article><article class="honor reveal"><span class="honor-year">2023</span><h3>GSAS Centennial Scholarship</h3><p>Fordham University</p></article><article class="honor reveal"><span class="honor-year">2021—23</span><h3>Fulbright Scholarship</h3><p>U.S. Department of State</p></article><article class="honor reveal"><span class="honor-year">2015—20</span><h3>National Scholarship</h3><p>Mauritania</p></article></div></section>
+
+    <section class="about" id="about"><div class="about-portrait reveal"><img src="{{ '/images/DSC_5929.jpg' | relative_url }}" alt="Portrait of Mohamed Afane"></div><div class="about-copy reveal"><p class="kicker">04 · About</p><h2>Research across models, methods, and public systems.</h2><p class="about-lead">I am a data scientist and AI researcher at Stanford RegLab, where I build and evaluate machine learning systems for complex, consequential settings.</p><p>My work includes legal AI, model evaluation, security, and public health. Across these domains, I am interested in systems that can be tested rigorously and used responsibly.</p><div class="education"><span>Education</span><p><strong>M.S., Data Science</strong> · Fordham University</p><p><strong>M.S., Energy Engineering</strong> · University of Illinois Chicago · Fulbright</p><p><strong>B.Eng., Electrical Engineering</strong> · ENSAM Casablanca</p></div></div></section>
+  </main>
+
+  <footer class="site-footer"><div><p class="kicker">Let’s connect</p><h2>Questions, ideas,<br>or shared interests?</h2></div><div class="footer-links"><a href="mailto:afane@law.stanford.edu">Email <span>↗</span></a><a href="https://www.linkedin.com/in/afane/">LinkedIn <span>↗</span></a><a href="https://scholar.google.com/citations?user=wB3J8nQAAAAJ&hl=en&oi=sra">Google Scholar <span>↗</span></a><a href="https://github.com/afane">GitHub <span>↗</span></a></div><p class="footer-note">Mohamed Afane · Palo Alto, California <span>© <span data-year></span></span></p></footer>
+</body>
+</html>

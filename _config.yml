@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mo Afane"
+title                    : "Mohamed Afane"
 title_separator          : "-"
-name                     : &name "Mo Afane"
-description              : &description "The personal website of Mohamed Afane, featuring projects, blog posts, and more."
+name                     : &name "Mohamed Afane"
+description              : &description "Mohamed Afane is a data scientist and AI researcher working on reliable AI, legal reasoning, and public systems."
 url                      : https://afane.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Mo Afane"
+repository               : "afane/afane.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "Mo Afane"
 author:
   # Biographic information
   avatar           : "Profile25.jpeg"
-  name             : "Mo Afane"
+  name             : "Mohamed Afane"
   pronouns         : # example: "she/her"  
   bio              : "Email: afane[at]law.stanford.edu"
   location         : "Palo Alto, CA"
